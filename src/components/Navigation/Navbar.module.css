@@ -1,0 +1,21 @@
+.navBar {
+  height: 50px;
+  background-color: lightblue;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 0.6rem;
+}
+
+.addBtn {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin-right: .8rem;
+}
